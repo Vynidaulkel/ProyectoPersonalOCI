@@ -1,9 +1,9 @@
 # ProyectoPersonalOCI
  Creation of a Oracle cloud infraestructure by using terraform\
 VCN
-![image](https://imgur.com/BmQimdw)
+![VCN](https://imgur.com/BmQimdw)
 Subnets
-![image](https://github.com/Vynidaulkel/ProyectoPersonalOCI/assets/57465827/4feb4ea2-a45b-47f4-b9d6-0af4e935bce2)
+![Subnets](https://github.com/Vynidaulkel/ProyectoPersonalOCI/assets/57465827/4feb4ea2-a45b-47f4-b9d6-0af4e935bce2)
 Security List for the private subnet
 ![image](https://github.com/Vynidaulkel/ProyectoPersonalOCI/assets/57465827/840a6480-521f-475a-8ee4-5b142e2072d0)
 Ingress Rules
