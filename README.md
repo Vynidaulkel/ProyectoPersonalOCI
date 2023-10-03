@@ -1,6 +1,6 @@
 # ProyectoPersonalOCI
  Creation of a Oracle cloud infraestructure by using terraform\
- VCN
+VCN
 ![image](https://imgur.com/BmQimdw)
 Subnets
 ![image](https://github.com/Vynidaulkel/ProyectoPersonalOCI/assets/57465827/4feb4ea2-a45b-47f4-b9d6-0af4e935bce2)
